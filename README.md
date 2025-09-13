@@ -2,7 +2,6 @@
 
 # Hi 👋, I'm Ngo Nguyen Thanh Nam  
 
-💻 A passionate fullstack developer | 🎓 Currently studying  
 
 </div>
 
