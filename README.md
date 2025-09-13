@@ -1,3 +1,5 @@
+## 👨‍💻 About Me
+Hi, I'm Ngo Nguyen Thanh Lam. Welcome to my GitHub profile!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lam.thanh313204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-l%C3%A2m-575b45364/) 
