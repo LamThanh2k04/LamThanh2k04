@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Ngo Nguyen Thanh Nam. Welcome to my GitHub profile!  
+# Hi 👋, I'm Ngo Nguyen Thanh Lam. Welcome to my GitHub profile!  
 
 
 
