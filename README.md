@@ -87,5 +87,10 @@
 
 **Overview**  
 Built a comprehensive academic management system to handle student records, course management, and administrative operations.
-<img width="1870" height="870" alt="image" src="https://github.com/user-attachments/assets/d828bcf4-3dea-4102-85af-c03a00898447" />
+<img width="1906" height="868" alt="image" src="https://github.com/user-attachments/assets/35133331-4713-4a0b-8ca4-b2fe517a17ea" />
+<img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/1c9df7b8-f742-4823-8f91-fbdc6a3b899c" />
+<img width="1901" height="859" alt="image" src="https://github.com/user-attachments/assets/2bbba9d9-4207-406b-a7fa-18727152bc6c" />
+
+
+
 
