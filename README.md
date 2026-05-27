@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
+* 🎓 Studying Information Technology Engineering at Nguyen Tat Thanh University (2022 – 2026)
 * 🔭 Focus: **Backend Development (Node.js, Express, NestJS)**
 * ⚡ Experienced with: **REST APIs, Authentication (JWT), Realtime (Socket.io)**
 * 🗄️ Strong in: **Database Design (MongoDB, MySQL, PostgreSQL, Prisma ORM)**
