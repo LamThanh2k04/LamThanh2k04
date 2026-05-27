@@ -82,9 +82,10 @@
 ## 🚀 Featured Projects
 
 ### 🧑‍🎓 Acadex - Academic Management System
-🔗 Link Frontend:
-🔗 Link Backend:
+* 🔗 Link Frontend:
+* 🔗 Link Backend:
 
 **Overview**  
 Built a comprehensive academic management system to handle student records, course management, and administrative operations.
+<img width="1870" height="870" alt="image" src="https://github.com/user-attachments/assets/d828bcf4-3dea-4102-85af-c03a00898447" />
 
