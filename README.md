@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-* 🎓 Studying Information Technology Engineering at Nguyen Tat Thanh University (2022 – 2026)
+* 🎓 Studying: **Information Technology Engineering at Nguyen Tat Thanh University (2022 – 2026)**
 * 🔭 Focus: **Backend Development (Node.js, Express, NestJS)**
 * ⚡ Experienced with: **REST APIs, Authentication (JWT), Realtime (Socket.io)**
 * 🗄️ Strong in: **Database Design (MongoDB, MySQL, PostgreSQL, Prisma ORM)**
@@ -76,3 +76,15 @@
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=LamThanh2k04\&limit=5\&theme=dark)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧑‍🎓 Acadex - Academic Management System
+🔗 Link Frontend:
+🔗 Link Backend:
+
+**Overview**  
+Built a comprehensive academic management system to handle student records, course management, and administrative operations.
+
