@@ -91,6 +91,14 @@ Built a comprehensive academic management system to handle student records, cour
 <img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/1c9df7b8-f742-4823-8f91-fbdc6a3b899c" />
 <img width="1901" height="859" alt="image" src="https://github.com/user-attachments/assets/2bbba9d9-4207-406b-a7fa-18727152bc6c" />
 
+**Tech Stack**  
+* Frontend: Next.js, Redux Toolkit, TailwindCSS, shadcn/ui  
+* Backend: Node.js (Express.js)  
+* Database: MySQL (Prisma ORM)  
+* Realtime & Media: Socket.io, Cloudinary  
+* Authentication: JWT
+---
+
 
 
 
