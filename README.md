@@ -85,19 +85,83 @@
 * 🔗 Link Frontend:
 * 🔗 Link Backend:
 
-**Overview**  
+## Overview
 Built a comprehensive academic management system to handle student records, course management, and administrative operations.
 <img width="1906" height="868" alt="image" src="https://github.com/user-attachments/assets/35133331-4713-4a0b-8ca4-b2fe517a17ea" />
 <img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/1c9df7b8-f742-4823-8f91-fbdc6a3b899c" />
 <img width="1901" height="859" alt="image" src="https://github.com/user-attachments/assets/2bbba9d9-4207-406b-a7fa-18727152bc6c" />
 
-**Tech Stack**  
+## 💻 Tech Stack
 * Frontend: Next.js, Redux Toolkit, TailwindCSS, shadcn/ui  
 * Backend: Node.js (Express.js)  
 * Database: MySQL (Prisma ORM)  
 * Realtime & Media: Socket.io, Cloudinary  
 * Authentication: JWT
+
+## 🚀 Key Features
+### 👤 <u>Student Features:</u>
+
+* 🔑 Advanced Auth: Secure authentication with **JWT** and role-based access control (RBAC).
+
+* 📚 Academic Dashboard: View personal profile, curriculum, and academic progress.
+
+* 📝 Course Registration: Register and manage course enrollments.
+
+* 📊 Grade Tracking: Access grades and academic results in real-time.
+
+* 📅 Scheduling: View class schedules and exam timetables.
+
+* 💳 Payment Integration: Handle tuition payments via **VNPay**.
+
+* 🔔 Real-time Notifications: Receive instant updates for schedules, announcements, and system events.
+
+* 📄 Certificate Requests: Submit and track certificate approval requests.
+
+### 👨‍🏫 <u>Lecturer Features:</u>
+
+* 📅 Teaching Schedule: View assigned classes and teaching timetable.
+
+* 📝 Grade Management: Input and update student grades.
+
+* 👤 Profile Management: Access and manage personal information.
+
+### 🛠 <u>Admin Dashboard:</u>
+
+* 📦 Resource Management (CRUD):
+
+  * Students, Lecturers
+  * Faculties, Majors
+  * Classes, Course Sections
+  * Class & Exam Schedules
+
+* 📄 Approval System: Review and approve student certificate requests.
+
+* 🔔 Notification System: Send real-time announcements to students.
+
+* 📊 System Management: Monitor and manage overall academic operations.
+
+
+## 📚 Technical Highlights
+
+* ⚙️ **Backend Architecture:** Designed a modular and scalable server-side architecture using **Node.js (Express/NestJS)**.
+
+* 🔐 **Authentication & Authorization:** Implemented secure authentication with **JWT** and **Role-Based Access Control (RBAC)**.
+
+* 🗄️ **Database Design:** Modeled and optimized relational data using **MySQL + Prisma ORM**, handling complex relationships.
+
+* 🚀 **RESTful API Development:** Built and structured scalable APIs for handling core business logic and data flow.
+
+* ⚡ **Performance Optimization:** Improved API performance through query optimization and efficient data handling.
+
+* 📡 **Realtime Communication:** Integrated **Socket.io** for real-time notifications and system updates.
+
+* 🧩 **Code Structure:** Applied clean architecture and modular design principles for maintainability and scalability.
+
 ---
+
+<p align="center">
+  <i>🚧 Continuously improving system performance and architecture</i>
+</p>
 
 
 
